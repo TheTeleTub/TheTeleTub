@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TheTeleTub
 - 👀 I’m interested in App and Web development
 - 🌱 I’m currently learning C#, Java and Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @TheTeleTub on Twitter
 
 <!---
 TheTeleTub/TheTeleTub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
