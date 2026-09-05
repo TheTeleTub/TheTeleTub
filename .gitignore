@@ -1,0 +1,4 @@
+# JetBrains-Projektdateien. Dieses Repo enthaelt genau eine inhaltliche Datei —
+# das Profil-README. Die IDE-Konfiguration einer einzelnen Workstation gehoert
+# nicht dazu und taucht sonst bei jedem Oeffnen als Aenderung auf.
+.idea/
