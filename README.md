@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://lgross.cloud"><img src="https://img.shields.io/badge/lgross.cloud-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/DEIN-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/larsgross"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 I design, operate and improve hybrid IT infrastructures — with a focus on
